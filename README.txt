@@ -8,3 +8,4 @@ Coming Soon:
 - actual portfolio stuff
 - buttons to link to portfolio
 - two paragraph separation in aboutMe section
+- configure navbar to not animate while bars are not showing
