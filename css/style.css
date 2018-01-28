@@ -121,10 +121,10 @@ nav a:hover {
 #contact .btn {
   background: transparent;
   transition: all .35s;
-  width: calc(100%-5px);
+  width: 100%;
   color: var(--dark-accent);
   border: 2px solid var(--dark-accent);
-  margin: 5px
+  margin-bottom: 10px
 }
 #contact .btn:hover {
   color: var(--mid-accent);
@@ -135,11 +135,11 @@ nav a:hover {
   background-color: var(--dark-accent);
   min-height: 35%;
   color: var(--light-accent);
+  text-align: center;
 }
 #footer p {
   margin: 15px 0px 10px 0px;
   color: var(--light-text-color);
-  text-align:center;
 }
 #footer .btn {
   color: var(--accent);
@@ -165,7 +165,7 @@ nav a:hover {
 #cell {
   height: 30px;
   width: 30px;
-  padding-top: calc(30px/20);;
+  padding-top: calc(30px/20);
   cursor: pointer;
 }
 
