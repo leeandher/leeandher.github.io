@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .container-fluid {
-  padding: 50px;
+  padding: 50px 100px 50px 100px;
 }
 
 #home {
@@ -140,6 +140,10 @@ nav a:hover {
 #footer p {
   margin: 15px 0px 10px 0px;
   color: var(--light-text-color);
+}
+#footer a:hover {
+  text-decoration: none;
+  color: var(--pale-accent);
 }
 #footer .btn {
   color: var(--accent);
