@@ -1,12 +1,28 @@
 @media screen {
+  .error,
+  .temperature {
+    font-size: 90px;
+  }
+
+  .title,
+  .description {
+    font-size: 34px;
+  }
+
+  btn,
+  .location {
+    font-size: 18px;
+  }
+}
+@media (max-width: 750px) {
+  .error,
   .temperature {
     font-size: 75px;
   }
 
   .title,
-  .error,
   .description {
-    font-size: 34px;
+    font-size: 30px;
   }
 
   p,
@@ -15,37 +31,29 @@
     font-size: 14px;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 475px) {
+  .error,
   .temperature {
-    font-size: 90px;
+    font-size: 60px;
   }
 
-  .title,
-  .error {
-    font-size: 30px;
+  .title {
+    font-size: 26px;
   }
 
+  p,
   btn,
   .location {
-    font-size: 18px;
+    font-size: 12px;
   }
 }
-html,
 body {
   height: 100%;
   color: whitesmoke;
   font-family: 'Montserrat', sans-serif;
-}
-
-.bg {
-  height: 100%;
-  width: 100%;
-  background-image: url(https://goo.gl/njnkZ2);
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
+  min-width: 350px;
+  background: #191919 url("") no-repeat center center fixed;
   background-size: cover;
-  filter: brightness(0.3);
 }
 
 .center {
@@ -66,7 +74,8 @@ body {
   height: 476px;
   width: 80%;
   max-width: 796px;
-  min-width: 576px;
+  min-width: 320px;
+  margin: 50px auto;
   text-align: center;
 }
 .content.error {
@@ -81,13 +90,14 @@ body {
   border-radius: 25px 25px 0px 0px;
 }
 
-.left-info {
-  width: 100%;
-  height: 100%;
-  margin: 0px;
-  background-color: rgba(95, 95, 95, 0.3);
-  transition: all 0.5s;
+.col-md-6 {
+  padding: 0;
 }
+
+.row {
+  margin: 0 auto;
+}
+
 .left-info .temperature {
   width: 100%;
   display: block;
@@ -101,13 +111,6 @@ body {
   color: #191919;
 }
 
-.right-info {
-  width: 100%;
-  height: 100%;
-  margin: 0px;
-  background-color: rgba(95, 95, 95, 0.3);
-  transition: all 0.5s;
-}
 .right-info .center-text {
   padding: 20px;
 }
@@ -115,6 +118,13 @@ body {
   font-style: italic;
 }
 
+.hover-inset {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  background-color: rgba(25, 25, 25, 0.7);
+  transition: all 0.5s;
+}
 .hover-inset:hover {
   box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.9);
 }
@@ -154,14 +164,15 @@ body {
 }
 
 .extra {
-  margin-top: -4%;
-  padding-top: 3%;
   z-index: 1;
-  max-height: 0%;
+  max-height: 25%;
   border-radius: 0px 0px 25px 25px;
   background: #191919;
   overflow: hidden;
 }
 .extra.override {
   max-height: 105%;
+}
+.extra p {
+  margin: 5px auto;
 }
