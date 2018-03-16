@@ -30,6 +30,10 @@
   .location {
     font-size: 14px;
   }
+
+  .info {
+    font-size: 12px;
+  }
 }
 @media (max-width: 475px) {
   .error,
@@ -39,12 +43,17 @@
 
   .title {
     font-size: 26px;
+    padding-top: 5px;
   }
 
   p,
   btn,
   .location {
     font-size: 12px;
+  }
+
+  .info {
+    font-size: 10px;
   }
 }
 body {
@@ -90,12 +99,23 @@ body {
   border-radius: 25px 25px 0px 0px;
 }
 
-.col-md-6 {
+.col-3, .col-md-6 {
   padding: 0;
 }
 
 .row {
   margin: 0 auto;
+}
+
+.hover-inset {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  background-color: rgba(25, 25, 25, 0.7);
+  transition: all 0.5s;
+}
+.hover-inset:hover {
+  box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.9);
 }
 
 .left-info .temperature {
@@ -118,25 +138,6 @@ body {
   font-style: italic;
 }
 
-.hover-inset {
-  width: 100%;
-  height: 100%;
-  margin: 0px;
-  background-color: rgba(25, 25, 25, 0.7);
-  transition: all 0.5s;
-}
-.hover-inset:hover {
-  box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.9);
-}
-
-.details {
-  width: 100%;
-  height: 40%;
-}
-.details .head {
-  font-weight: bold;
-}
-
 .transition {
   -webkit-transition: all .35s ease-out;
   -moz-transition: all .35s ease-out;
@@ -145,34 +146,33 @@ body {
   transition: all .35s ease-out;
 }
 
-.expand {
-  background: #191919;
-  display: block;
+.details {
+  padding: 0 10px;
+  z-index: 1;
+  max-height: 10%;
   border-radius: 0px 0px 25px 25px;
-  width: 100%;
-  height: 25%;
+  background: #191919;
+  overflow: hidden;
 }
-.expand:hover {
-  cursor: pointer;
+.details p {
+  margin: 5px auto;
 }
-.expand .transition.enable {
+.details .head {
+  font-weight: bold;
+}
+.details .row {
+  padding: 5px 0;
+}
+.details .transition.enable {
   -webkit-transform: rotateX(180deg);
   -moz-transform: rotateX(180deg);
   -ms-transform: rotateX(180deg);
   -o-transform: rotateX(180deg);
   transform: rotateX(180deg);
 }
-
-.extra {
-  z-index: 1;
-  max-height: 25%;
-  border-radius: 0px 0px 25px 25px;
-  background: #191919;
-  overflow: hidden;
+.details .transition:hover {
+  cursor: pointer;
 }
-.extra.override {
-  max-height: 105%;
-}
-.extra p {
-  margin: 5px auto;
+.details.override {
+  max-height: 40%;
 }
