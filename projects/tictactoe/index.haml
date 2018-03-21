@@ -1,0 +1,60 @@
+%form.menu
+  .select.center
+    %h1 Tic-Tac-Toe
+    %h5 Who's playing?
+    .row
+      .col-sm-6.offset-sm-0.col-8.offset-2
+        %button.btn.btn-versus#vsAI{:type => "button"} Player vs. AI
+      .col-sm-6.offset-sm-0.col-8.offset-2
+        %button.btn.btn-versus.enable#vsPlayer{:type => "button"} Player vs. Player
+    .ifAI.d-none
+      %h5 AI Difficulty
+      .row
+        .col-sm-4.offset-sm-0.col-8.offset-2
+          %button.btn.btn-difficulty.enable#simpleAI{:type => "button"} Simple
+        .col-sm-4.offset-sm-0.col-8.offset-2
+          %button.btn.btn-difficulty#moderateAI{:type => "button"} Moderate
+        .col-sm-4.offset-sm-0.col-8.offset-2
+          %button.btn.btn-difficulty#impossibleAI{:type => "button"} Impossible
+    %h5 Player Info
+    .row
+      .col-sm-6.offset-sm-0.col-8.offset-2
+        %button.btn#pinfo-1{:type => "button", :tabindex => "-1"}
+          %input#pname-1{:type => "text", :placeholder => "Player 1 Name"}
+          .btn-float.btn-char.x-select.enable
+            .center X 
+          .btn-float.btn-char.o-select 
+            .center O
+          %label 
+            .btn-float.color-sample#pcolor-1
+            %input.d-none{:type => "color", :value => "#F08080"}
+      .col-sm-6.offset-sm-0.col-8.offset-2
+        %button.btn#pinfo-2{:type => "button", :tabindex => "-1"}
+          %input#pname-2{:type => "text", :placeholder => "Player 2 Name"} 
+          .btn-float.btn-char.x-select
+            .center X
+          .btn-float.btn-char.o-select.enable
+            .center O 
+          %label
+            .btn-float.color-sample#pcolor-2
+            %input.d-none{:type => "color", :value => "#87CEEB"}        
+    .row
+      .col-6.offset-3
+        %button.btn{:type => "submit"} Start Game
+.game.d-none 
+  .display
+  .board
+    %table
+      - (0..2).each do |i|
+        %tr{:id => "row-#{i}"}
+          - (0..2).each do |j|
+            %td.cell{:id => "cell-#{(i*3)+j}"}
+              .nought.center{:id => "nought-#{(i*3)+j}"}
+              .cross{:id => "cross-#{(i*3)+j}"}
+                .center.cross-bar.c1
+                .center.cross-bar.c2
+  .row
+    .col-sm-6.offset-sm-0.col-8.offset-2
+      %button.btn.btn-ingame#back Back to menu
+    .col-sm-6.offset-sm-0.col-8.offset-2
+      %button.btn.btn-ingame#reset Reset
