@@ -1,5 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/leeandher/pen/mXbzde.
-
 Coming Soon:
 - device formatting
 - consolidated animation
@@ -9,3 +7,20 @@ Coming Soon:
 - buttons to link to portfolio
 - two paragraph separation in aboutMe section
 - configure navbar to not animate while bars are not showing
+
+
+HITLIST: 
+Take notes on the following subjects
+ - html basics
+ - css basics
+ - bootstrap basics
+ - js basics
+ - jquery basics
+ - react basics 
+   - rendering in component creation
+   - creating components
+   - importing react and react dom
+   - virtual dom control 
+   - rendering on webpage
+   - creating elements
+   - 
