@@ -30,3 +30,6 @@ Take notes on the following subjects
    - rendering on webpage
    - creating elements
    - 
+   
+ - figure out how hossting works
+ - configure a mail server
