@@ -1,4 +1,4 @@
-###April 20
+### April 20
 
 So it's been almost four months since I started getting into programming, and had all these ideas for blogs and youtube channels and courses and I can honestly say that my web development skills/knowledge has come a long way. It's definitely been stressful and difficult, but it's also been extremely rewarding and satisfying when everything goes just I spec it out. I think I'm getting to that point where I'm deciding what I want to do and the direction I want my projects to go. Up until now, All of my blogs have been specifically about programming, as updates and milestones and whatnot, but I think I want to head in a new direction. If this site is really to be my own, then I should personalize It and make it more about what describes me.
 
