@@ -1,35 +1,5 @@
-Coming Soon:
-- device formatting
-- consolidated animation
-- current song feed
-- more to portfolio
-- actual portfolio stuff
-- buttons to link to portfolio
-- two paragraph separation in aboutMe section
-- configure navbar to not animate while bars are not showing
-- add a projects page
-- change the title on each page to accurately describe it
-- update all the readmes on each of the different projects
-- export the most uptodate and fixed code from codepen and compare
-- consolidate commits by doing it at home
-- learn how to use git without github desktop
+### leeandher.github.io
 
+Welcome to my GitHub pages repo. I use it to redirect to my website and you can check out all of that source code over at https://github.com/leeandher/personal-site. Here, I host all of the files that I used while working on projects, as well as Markdown Versions of the blog posts that I publish to my actual website.
 
-HITLIST: 
-Take notes on the following subjects
- - html basics
- - css basics
- - bootstrap basics
- - js basics
- - jquery basics
- - react basics 
-   - rendering in component creation
-   - creating components
-   - importing react and react dom
-   - virtual dom control 
-   - rendering on webpage
-   - creating elements
-   - 
-   
- - figure out how hossting works
- - configure a mail server
+I might consider changing up my GitHub repo organization strategy in the future, but for now I find that this is a clean solution to make viewing source code and raw text easier than going through the `personal-site` repository.

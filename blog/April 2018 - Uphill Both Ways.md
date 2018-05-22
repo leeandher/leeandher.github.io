@@ -1,4 +1,4 @@
-## April 2018 -  Almost Launch Day
+## April 2018 -  Uphill Both Ways
 
 ### May 1 2018
 
@@ -10,6 +10,4 @@
 
 <p>April has been a pretty busy month, but I have a feeling it's just going to get worse. Not that that's bad, I like keeping myself busy, but I really enjoyed the amount of time I could dedicate to side projects. I'm going to do my best to keep with the lessons and online courses/challenges, but I really do want to get atleast one or two projects done while I'm back at University. I still have that React Bootcamp to finish, as well as the PHP Login System I want to test out.</p>
 
-<p>So much to do, so little time. But that's life, I guess.  ¯\_(ツ)_/¯.</p>
-
-
+<p>So much to do, so little time. But that's life, I guess.</p>
