@@ -1,4 +1,4 @@
-## Quick, Slick, Stress-filled Update
+## [A synonym for Busy]
 
 ### May 27 2018
 
