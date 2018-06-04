@@ -1,4 +1,4 @@
-## Another word for busy.
+## Quick, Slick, Stress-filled Update
 
 ### May 27 2018
 
@@ -10,4 +10,4 @@ Along with the site, I've also finished up my first round of coop applications. 
 
 Lastly, the Victoria Day weekend. It was definitely a great way to just kind of escape from school and classes and whatever just to chill. Sure my GitHub contributions got a little grey, and I fell behind in Hackerrank's 30 days of code, but whatever. I have plenty of time to worry about school and online courses later, I should take time to enjoy stuff more often. That being said, I was pretty much gone from reality cramming the 3 days I got back, but I'm sure in some cosmic sense everything cancelled out, so it's fine.
 
-Anyway, this blog was a long time coming, and I still have to do my May review, but 
+Anyway, this blog was a long time coming, and I still have to do my May review, but hopefully it'll be much shorter now.
