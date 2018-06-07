@@ -1,4 +1,4 @@
-## [A synonym for Busy]
+## A Synonym for Busy
 
 ### May 27 2018
 
