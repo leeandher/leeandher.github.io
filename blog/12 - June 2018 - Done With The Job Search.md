@@ -1,4 +1,4 @@
-##June 2018 - Done With the Job Search
+## June 2018 - Done With the Job Search
 
 ### July 3, 2018
 
