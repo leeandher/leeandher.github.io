@@ -1,4 +1,4 @@
-## _Prey_
+## Prey
 
 ### August 22, 2018
 
