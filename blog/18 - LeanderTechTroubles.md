@@ -1,6 +1,6 @@
 ## LeanderTechTroubles
 
-### September 20, 2018
+### September 9, 2018
 
 I haven't mentionned this before but this past month has been a pretty evident tech disaster for me. It wasn't like I messed something up, uploaded something I shouldn't have, or didn't save a word document; all my problems have been with physical hardware. Let's start off with my phone, a Samsung Galaxy S7.
 
