@@ -1,3 +1,7 @@
+---
+quote: "So this is it, my written statement of dedication"
+---
+
 ## June 2018 - Done With the Job Search
 
 ### July 3, 2018
@@ -6,7 +10,7 @@ This is going to be a quick update, because I haven't been doing much this month
 
 So this is it, my written statement of dedication:
 
-__For the next two months, I'm going to go all out with studying, assignments, labs, and final prep, in order to make up for the mistakes that I made on the midterms__.
+**For the next two months, I'm going to go all out with studying, assignments, labs, and final prep, in order to make up for the mistakes that I made on the midterms**.
 
 Yeah, yeah, this is good. I think having it written down will give me some sort of holistic sense of dedication.
 That, or I'll have an audience for my repeating the 2B term.

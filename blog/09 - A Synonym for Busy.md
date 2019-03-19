@@ -1,3 +1,7 @@
+---
+quote: "I'm sure in some cosmic sense everything cancelled out"
+---
+
 ## A Synonym for Busy
 
 ### May 27 2018

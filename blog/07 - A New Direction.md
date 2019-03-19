@@ -1,3 +1,8 @@
+---
+quote: "...personalize it, and make it more about what describes me."
+tags: ["personal", "announcement"]
+---
+
 ## A New Direction
 
 ### April 20, 2018

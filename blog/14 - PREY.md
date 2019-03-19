@@ -1,3 +1,7 @@
+---
+quote: "I just wanna keep talking"
+---
+
 ## Prey
 
 ### August 22, 2018
@@ -6,7 +10,7 @@ _Prey_ is a sort of psychological, survival horror game made by Arkane Studios; 
 
 When _Prey_ was released it completely missed my radar. I'd seen some gameplay, and thought the cinematography and game itself looked cool, but I was never really sold on buying it. Fast forward to mid-July, when I saw a video on reddit clamoring about how good its DLC, _Mooncrash_ was. I mean it didn't make me jump up and buy the game instantly, but it did kinda pique my interest. Anyway, time goes on and the Steam Sale starts and I promised myself that I'd buy Dishonored 2 this sale, even if I still don't have the hardware to support it. Just as luck has it, it has a bundle with _Prey_ which is only like a little bit more than the sale price of the base game so I decided to snatch it up. Honestly, I still didn't have the hardware for _Prey_ (only a 960M), but I still decided to push my luck and installed, and boy oh boy was it LIT.
 
-I mean right from the get go you got cool aliens and interesting combat, and an intriguing story, even with the learning curve. Even the start of the game had me shook to my core. I'd rather not spoil it, but if you've seen any gameplay or anything, the game has a really cool way of brining you into this world  Eventually you get a hang of it all, the inventory management, the crafting system, the gloo, smack, gloo, smack combos to kill the bigger boys. If I'm just doing some quick overview, I gotta give _Prey_ the points for having fun gameplay, level design, and progression, but man, it could have definitely improved in the backtracking, game-start and ability category. Here, lemme get into it.
+I mean right from the get go you got cool aliens and interesting combat, and an intriguing story, even with the learning curve. Even the start of the game had me shook to my core. I'd rather not spoil it, but if you've seen any gameplay or anything, the game has a really cool way of brining you into this world Eventually you get a hang of it all, the inventory management, the crafting system, the gloo, smack, gloo, smack combos to kill the bigger boys. If I'm just doing some quick overview, I gotta give _Prey_ the points for having fun gameplay, level design, and progression, but man, it could have definitely improved in the backtracking, game-start and ability category. Here, lemme get into it.
 
 Okay the cons first. Backtracking. I am really never a fan of it. I enjoy revisiting areas and having to go do missions in areas which were once difficult, once you got the abilities to light people on fire and a minigun strapped to your hip, but repeating the same four rooms over and over is needless. I get it, in _Prey_ you're on a space station, the '_Talos 1_', what kinda variety am I to expect? That's fair, I get it, but I just wish that it didn't involve travelling for the bulk of some of the missions. I often found myself just having to sit through a loading screen, to run to another area, and sit through another loading screen (and maybe my hardware isn't the best but this took like 3-4 min every time).
 

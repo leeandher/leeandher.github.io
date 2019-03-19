@@ -1,4 +1,9 @@
-## April 2018 -  Uphill Both Ways
+---
+quote: "But that's life, I guess."
+tags: ["personal", "announcement"]
+---
+
+## April 2018 - Uphill Both Ways
 
 ### May 1 2018
 

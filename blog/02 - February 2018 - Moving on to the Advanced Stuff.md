@@ -1,3 +1,8 @@
+---
+quote: "Guess that's what the real world is like for web development."
+tags: ["personal", "coding"]
+---
+
 ## February 2018 - Moving on to the Advanced Stuff
 
 ### March 1, 2018
@@ -6,7 +11,7 @@ So I'm late again to provide an update but I think I'm getting the hang of this 
 
 I think I just want to talk a little bit about the individual projects. The Random Quote Machine I definitely think turned out really well, but the mobile port still has some bugs, though, with my backlog, I'm never really sure when I'll get to that. It is very colourful and has a vibrant feel to it, and the buttons all function properly with no ugly css alterations anymore!
 
-The Local Weather App is probably my least favourite of the bunch. Not only is the API itself buggy (I know that's out of my control, but still), but it also seems very bland to me, and there are so many formatting issues that I never noticed while writing it, that now, if I'd like to change them, it would be a very tedious process to rip out and start anew. I think overall, it works,  but it definitely could have been better.
+The Local Weather App is probably my least favourite of the bunch. Not only is the API itself buggy (I know that's out of my control, but still), but it also seems very bland to me, and there are so many formatting issues that I never noticed while writing it, that now, if I'd like to change them, it would be a very tedious process to rip out and start anew. I think overall, it works, but it definitely could have been better.
 
 The Twitch.tv Viewer however, is definitely one of my favourite apps. I learnt so much about the Bootstrap 4 and that all played a part in the final design of the website. It works, and sorts, and searches and it turned out remarkably well in my opinion. However, even though it didn't take long to write the JS part, but I was so specific with the CSS that it probably took about a week too long to complete.
 

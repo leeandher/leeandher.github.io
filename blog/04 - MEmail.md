@@ -1,3 +1,8 @@
+---
+quote: "I can't wait for the site to be public."
+tags: ["personal", "announcement"]
+---
+
 ## MEmail
 
 ### April 08, 2018
